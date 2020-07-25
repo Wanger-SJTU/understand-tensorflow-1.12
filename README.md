@@ -1,1 +1,3 @@
-# tensorflow 源码阅读笔记
+# tensorflow 源码阅读笔
+
+![](assets/static_graph_ad.jpg)
